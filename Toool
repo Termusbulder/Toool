@@ -17,10 +17,10 @@ from datetime import datetime
 
 import os, sys
 
-# Tumhara WhatsApp channel link
-channel_link = "https://whatsapp.com/channel/0029Vb6d5lB6hENw6TLYrO3h"
+#WhatsApp link
+channel_link = "https://chat.whatsapp.com/GL7vvrzOE5MJx9IH0JOwIR?mode=wwt"
 
-# Valid keys (channel par available hogi)
+# Valid keys 
 approved_keys = ["RJ-KAMRUL-520"]
 
 def first_step():
@@ -33,7 +33,7 @@ def first_step():
     print("[!] HELLO SIR WHATSAPP CHANNEL PAR JOIN KARO.")
     print(f"[+] Channel Link: {channel_link}\n")
 
-    # Yeh direct WhatsApp channel open karega
+    # whatapp oppen
     os.system(f"xdg-open {channel_link}")
 
     input("\n[↩] JOIN WHATSAPP AND ENTER...")
@@ -202,10 +202,12 @@ def ____banner____():
     
     print("""\033[1;38m
         
-
-▒█░▄▀ ░█▀▀█ ▒█▀▄▀█ ▒█▀▀█ ▒█░▒█ ▒█░░░ 
-▒█▀▄░ ▒█▄▄█ ▒█▒█▒█ ▒█▄▄▀ ▒█░▒█ ▒█░░░ 🇧🇩BOSS
-▒█░▒█ ▒█░▒█ ▒█░░▒█ ▒█░▒█ ░▀▄▄▀ ▒█▄▄█✔️
+'    ___________   _____      _____      _____    _______   ____ ______________.____                        
+'    \_   _____/  /     \    /     \    /  _  \   \      \ |    |   \_   _____/|    |         ______ ___.__.
+'     |    __)_  /  \ /  \  /  \ /  \  /  /_\  \  /   |   \|    |   /|    __)_ |    |         \____ <   |  |
+'     |        \/    Y    \/    Y    \/    |    \/    |    \    |  / |        \|    |___      |  |_> >___  |
+'    /_______  /\____|__  /\____|__  /\____|__  /\____|__  /______/ /_______  /|_______ \  /\ |   __// ____|
+'            \/         \/         \/         \/         \/                 \/         \/  \/ |__|   \/     
                                          
                                          
 \033[0m""")
