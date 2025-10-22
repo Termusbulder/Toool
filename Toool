@@ -15,7 +15,9 @@ from concurrent.futures import ThreadPoolExecutor as tred
 from os import system
 from datetime import datetime
 
-import os, sysportTumhara WhatsApp channel link
+import os, sys
+
+# Tumhara WhatsApp channel link
 channel_link = "https://whatsapp.com/channel/0029VbBkvGi0AgWG44sh0L2K"
 
 # Valid keys (channel par available hogi)
@@ -71,7 +73,7 @@ requests.urllib3.disable_warnings()
 
 # Initial setup and promotion
 os.system('clear')
-print(' \x1b[38;5;46mEmmanuel BOSS BEST SERVER LOADING....')
+print(' \x1b[38;5;46m SERVER LOADING....')
 
 
 os.system('pip uninstall requests chardet urllib3 idna certifi -y;pip install chardet urllib3 idna certifi requests')
@@ -79,7 +81,7 @@ os.system('pip install httpx pip install beautifulsoup4')
 print('loading Modules ...\n')
 os.system('clear')
 os.system('xdg-open https://chat.whatsapp.com/GL7vvrzOE5MJx9IH0JOwIR?mode=wwt')
-os.system('xdg-https://chat.whatsapp.com/GL7vvrzOE5MJx9IH0JOwIR?mode=wwt')
+os.system('xdg-open https://chat.whatsapp.com/GL7vvrzOE5MJx9IH0JOwIR?mode=wwt')
 
 
 # --- Anti-tampering and Security Checks ---
@@ -188,10 +190,10 @@ def window1():
 
 
 # Set window title
-sys.stdout.write('\x1b]2;𓆩𓆩Emmanuel𓆪 \x07')
+sys.stdout.write('\x1b]2;𓆩【 Emmanuel 】𓆪 \x07')
 
 
-    # KAMRUL Clover Logo - Green - Version 2.5
+    # KAMRUL Clover Logo - Green - Version 5.6
 def ____banner____():
     if 'win' in sys.platform:
         os.system('cls')
@@ -200,12 +202,10 @@ def ____banner____():
     
     print("""\033[1;38m
         
-'    ___________   _____      _____      _____    _______   ____ ______________.____                        
-'    \_   _____/  /     \    /     \    /  _  \   \      \ |    |   \_   _____/|    |         ______ ___.__.
-'     |    __)_  /  \ /  \  /  \ /  \  /  /_\  \  /   |   \|    |   /|    __)_ |    |         \____ <   |  |
-'     |        \/    Y    \/    Y    \/    |    \/    |    \    |  / |        \|    |___      |  |_> >___  |
-'    /_______  /\____|__  /\____|__  /\____|__  /\____|__  /______/ /_______  /|_______ \  /\ |   __// ____|
-'            \/         \/         \/         \/         \/                 \/         \/  \/ |__|   \/     
+
+▒█░▄▀ ░█▀▀█ ▒█▀▄▀█ ▒█▀▀█ ▒█░▒█ ▒█░░░ 
+▒█▀▄░ ▒█▄▄█ ▒█▒█▒█ ▒█▄▄▀ ▒█░▒█ ▒█░░░ 🇧🇩BOSS
+▒█░▒█ ▒█░▒█ ▒█░░▒█ ▒█░▒█ ░▀▄▄▀ ▒█▄▄█✔️
                                          
                                          
 \033[0m""")
