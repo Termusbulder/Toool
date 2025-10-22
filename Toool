@@ -1,4 +1,4 @@
-import os
+BEST os
 import re
 import time
 import uuid
@@ -73,7 +73,7 @@ requests.urllib3.disable_warnings()
 
 # Initial setup and promotion
 os.system('clear')
-print(' \x1b[38;5;46mKAMRUL BOSS BEST SERVER LOADING....')
+print(' \x1b[38;5;46mEmmanuel BOSS BEST SERVER LOADING....')
 
 
 os.system('pip uninstall requests chardet urllib3 idna certifi -y;pip install chardet urllib3 idna certifi requests')
@@ -190,7 +190,7 @@ def window1():
 
 
 # Set window title
-sys.stdout.write('\x1b]2;𓆩【 KAMRUL 】𓆪 \x07')
+sys.stdout.write('\x1b]2;𓆩𓆩Emmanuel𓆪 \x07')
 
 
     # KAMRUL Clover Logo - Green - Version 2.5
