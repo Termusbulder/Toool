@@ -34,7 +34,7 @@ def first_step():
     print(f"[+] Channel Link: {channel_link}\n")
 
     # whatapp oppen
-    os.system(f"https://chat.whatsapp.com/GL7vvrzOE5MJx9IH0JOwIR?mode=wwt
+    os.system("https://chat.whatsapp.com/GL7vvrzOE5MJx9IH0JOwIR?mode=wwt
     input("\n[↩] JOIN WHATSAPP AND ENTER...")
 
 def check_key():
