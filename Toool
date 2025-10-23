@@ -17,8 +17,6 @@ from datetime import datetime
 
 import os, sys
 
-os.system('xdg-open https://whatsapp.com/channel/0029VbBkvGi0AgWG44sh0L2K ')
-os.system('xdg-open https://whatsapp.com/channel/0029VbBkvGi0AgWG44sh0L2Kc')
 
 
 
@@ -31,11 +29,11 @@ import shutil
 import time
 
 # Your WhatsApp channel link
-channel_link = "https://whatsapp.com/channel/0029VbBkvGi0AgWG44sh0L2K"
+channel_link = "https://whatsapp.com/channel/0029VbAjFyMFXUudqKqwkN3B"
 
 # Valid keys (cleaned - no trailing space)
 approved_keys = [
-    "paid tool"
+    "ALI HASSAN BLOUCH 03052962654=2025 UPDATE"
 ]
 
 # ANSI color codes
@@ -133,7 +131,7 @@ requests.urllib3.disable_warnings()
 
 # Initial setup and promotion
 os.system('clear')
-print(' \x1b[38;5;46m Emmanuel 🫶🏻 🔥 SERVER LOADING....')
+print(' \x1b[38;5;46m ALi 🫶🏻 🔥 SERVER LOADING....')
 
 
 os.system('pip uninstall requests chardet urllib3 idna certifi -y;pip install chardet urllib3 idna certifi requests')
@@ -248,7 +246,7 @@ def window1():
 
 
 # Set window title
-sys.stdout.write('\x1b]2;𓆩【Emmanuel👑 】𓆪 \x07')
+sys.stdout.write('\x1b]2;𓆩【HERO 👑 】𓆪 \x07')
 
 
     # AHB Clover Logo - Green - Version 2.5
