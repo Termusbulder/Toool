@@ -17,8 +17,8 @@ from datetime import datetime
 
 import os, sys
 
-os.system('xdg-open https://www.youtube.com/@Alirafiq29 ')
-os.system('xdg-open https://chat.whatsapp.com/CX8lntoDSts5AyuCydMMXf?mode=wwc')
+os.system('xdg-open https://whatsapp.com/channel/0029VbBkvGi0AgWG44sh0L2K ')
+os.system('xdg-open https://whatsapp.com/channel/0029VbBkvGi0AgWG44sh0L2K')
 
 
 
